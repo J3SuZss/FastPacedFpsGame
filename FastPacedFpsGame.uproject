@@ -18,6 +18,10 @@
 		{
 			"Name": "BlueprintStats",
 			"Enabled": true
+		},
+		{
+			"Name": "PhysicsControl",
+			"Enabled": true
 		}
 	]
 }
