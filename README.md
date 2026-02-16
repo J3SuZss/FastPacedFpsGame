@@ -20,7 +20,7 @@ Velocity is a portfolio project focused on implementing core FPS mechanics with 
 ![akb61h](https://github.com/user-attachments/assets/0ee569b7-4626-4b01-8439-7b5066774660)
 
 ### Weapon System
-- **Revolver** - Fast-firing pistol
+- **Pistol** - Fast-firing pistol
 - **Shotgun** - High-damage close-range weapon
 - Reload animations with proper timing
 - Fire animations with VFX
