@@ -2,11 +2,7 @@
 
 A practice FPS game built in Unreal Engine 5 to explore advanced movement mechanics, weapon systems, and AI behavior.
 
-
-
 Velocity is a portfolio project focused on implementing core FPS mechanics with emphasis on fluid movement and modular weapon design. Created as a learning exercise to deepen understanding of Unreal Engine's animation system, AI tools, and blueprint programming.
-
-
 
 ![akb64q](https://github.com/user-attachments/assets/d0aea891-fc29-46f8-87d6-87dc845f5200)
 
@@ -91,7 +87,6 @@ All systems are designed to be modular and extensible for future additions.
 
 ##  Contact
 
-Created as a portfolio project by [Your Name]
 
 - LinkedIn: [(https://www.linkedin.com/in/alper-ikiz-587a201a3/)]
 - Email: [ikiz19@itu.edu.tr]
